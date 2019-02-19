@@ -1,0 +1,1 @@
+#.NET Core 2.2 C# console application demonstrating sending a media message with the Twilio API for WhatsApp.
